@@ -29,7 +29,7 @@
         android:layout_height="wrap_content"
         android:text="@string/back"
         android:textColor="@color/white"
-        android:theme="@style/Button.White"
+        android:theme="@style/Button.Color"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"

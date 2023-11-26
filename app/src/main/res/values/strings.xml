@@ -8,4 +8,7 @@
     <string name="creditsdecsription">Coded by :\nWill\n&amp;\nJonny\nDev Mobile\nProject</string>
     <string name="back">Back</string>
     <string name="description_logo">Just a logo of the apps game</string>
+    <string name="resetscore">Reset Score</string>
+    <string name="cardskin">Cards Skins</string>
+    <string name="darkmode">Theme Sombre</string>
 </resources>

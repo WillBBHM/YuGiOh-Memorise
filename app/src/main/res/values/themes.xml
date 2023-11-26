@@ -5,9 +5,8 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Button.White" parent="Theme.Material3.DayNight.NoActionBar">
-        <item name="colorPrimary">#F3534E4E</item>
+    <style name="Button.Color" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FFFFFF</item>
     </style>
 
-    <style name="Theme.YuGiOhMemorise" parent="Base.Theme.YuGiOhMemorise" />
 </resources>
